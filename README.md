@@ -1,4 +1,4 @@
-# sudoku_solver
+# sudoku-solver-python
 Solves Sudoku puzzles so I don't have to.
 
 ## Reason and Philosophy
